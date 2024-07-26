@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEducation.Practice", "CSharpEducation.Practice\CSharpEducation.Practice.csproj", "{B2FFC9D1-572A-4444-87FD-1D09D8045D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1A", "Task1A\Task1A.csproj", "{1CAA600E-51EA-43A0-B361-3D764D7A790F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1.CSharpBase", "Task1.CSharpBase", "{85B23088-F839-4D78-876F-B9239E84774F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1Bв", "Task1Bв\Task1Bв.csproj", "{1A0D7C14-C85B-4CD7-8452-604FB3E8D179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FFC9D1-572A-4444-87FD-1D09D8045D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FFC9D1-572A-4444-87FD-1D09D8045D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FFC9D1-572A-4444-87FD-1D09D8045D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FFC9D1-572A-4444-87FD-1D09D8045D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAA600E-51EA-43A0-B361-3D764D7A790F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAA600E-51EA-43A0-B361-3D764D7A790F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAA600E-51EA-43A0-B361-3D764D7A790F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAA600E-51EA-43A0-B361-3D764D7A790F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0D7C14-C85B-4CD7-8452-604FB3E8D179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0D7C14-C85B-4CD7-8452-604FB3E8D179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0D7C14-C85B-4CD7-8452-604FB3E8D179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0D7C14-C85B-4CD7-8452-604FB3E8D179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A0D7C14-C85B-4CD7-8452-604FB3E8D179} = {85B23088-F839-4D78-876F-B9239E84774F}
+		{1CAA600E-51EA-43A0-B361-3D764D7A790F} = {85B23088-F839-4D78-876F-B9239E84774F}
+	EndGlobalSection
+EndGlobal
